@@ -1,0 +1,16 @@
+D:\Dropbox\Storage\QUT\Year 2.5\Semester 1\CAB402\Assignment One\Assignment One Pure F#\bin\Debug\Assignment_One.exe.config
+D:\Dropbox\Storage\QUT\Year 2.5\Semester 1\CAB402\Assignment One\Assignment One Pure F#\bin\Debug\Assignment_One.XML
+D:\Dropbox\Storage\QUT\Year 2.5\Semester 1\CAB402\Assignment One\Assignment One Pure F#\bin\Debug\Assignment_One.exe
+D:\Dropbox\Storage\QUT\Year 2.5\Semester 1\CAB402\Assignment One\Assignment One Pure F#\bin\Debug\Assignment_One.pdb
+D:\Dropbox\Storage\QUT\Year 2.5\Semester 1\CAB402\Assignment One\Assignment One Pure F#\bin\Debug\FSharp.Core.dll
+D:\Dropbox\Storage\QUT\Year 2.5\Semester 1\CAB402\Assignment One\Assignment One Pure F#\bin\Debug\FSharp.Core.xml
+D:\Dropbox\Storage\QUT\Year 2.5\Semester 1\CAB402\Assignment One\Assignment One Pure F#\obj\Debug\Assignment_One.exe
+D:\Dropbox\Storage\QUT\Year 2.5\Semester 1\CAB402\Assignment One\Assignment One Pure F#\obj\Debug\Assignment_One.pdb
+D:\Dropbox\Storage\QUT\Year 2.5\Semester 1\CAB402\Assignment One\CAB402 Assignment One - James Flannery - n8326631\Assignment One Pure F#\bin\Debug\Assignment_One.exe.config
+D:\Dropbox\Storage\QUT\Year 2.5\Semester 1\CAB402\Assignment One\CAB402 Assignment One - James Flannery - n8326631\Assignment One Pure F#\bin\Debug\Assignment_One.XML
+D:\Dropbox\Storage\QUT\Year 2.5\Semester 1\CAB402\Assignment One\CAB402 Assignment One - James Flannery - n8326631\Assignment One Pure F#\bin\Debug\Assignment_One.exe
+D:\Dropbox\Storage\QUT\Year 2.5\Semester 1\CAB402\Assignment One\CAB402 Assignment One - James Flannery - n8326631\Assignment One Pure F#\bin\Debug\Assignment_One.pdb
+D:\Dropbox\Storage\QUT\Year 2.5\Semester 1\CAB402\Assignment One\CAB402 Assignment One - James Flannery - n8326631\Assignment One Pure F#\bin\Debug\FSharp.Core.dll
+D:\Dropbox\Storage\QUT\Year 2.5\Semester 1\CAB402\Assignment One\CAB402 Assignment One - James Flannery - n8326631\Assignment One Pure F#\bin\Debug\FSharp.Core.xml
+D:\Dropbox\Storage\QUT\Year 2.5\Semester 1\CAB402\Assignment One\CAB402 Assignment One - James Flannery - n8326631\Assignment One Pure F#\obj\Debug\Assignment_One.exe
+D:\Dropbox\Storage\QUT\Year 2.5\Semester 1\CAB402\Assignment One\CAB402 Assignment One - James Flannery - n8326631\Assignment One Pure F#\obj\Debug\Assignment_One.pdb
